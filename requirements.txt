@@ -1,0 +1,5 @@
+easyocr
+opencv-contrib-python
+opencv-python
+openpyxl
+django
