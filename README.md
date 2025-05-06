@@ -36,9 +36,17 @@ This project is a complete Automatic Number Plate Recognition (ANPR) system buil
 ![image](https://github.com/user-attachments/assets/4e4d1802-5678-4bc9-8897-ae53c0f770d2)
 
 
-## 📸 Demo
+## 📸 Demo screenshot/video
 
 ![Image](https://github.com/user-attachments/assets/d5f993c6-23d4-4c80-891c-6090e0f8a957)
+![image](https://github.com/user-attachments/assets/d1807537-6cea-4079-858a-eb8d9902bfb6)
+
+
+https://github.com/user-attachments/assets/836d8b50-86e3-4c83-98d6-9411b3fa1b44
+
+
+
+
 
 
 ## ⚙️ Setup Instructions
