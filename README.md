@@ -42,5 +42,25 @@ This project is a complete Automatic Number Plate Recognition (ANPR) system buil
 
 
 
+## ⚙️ Setup Instructions
+
+```bash
+# Clone repo
+git clone https://github.com/yourusername/anpr_project.git
+cd anpr_project
+
+# Create virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+# Install requirements
+pip install -r requirements.txt
+
+# Run database migrations
+python manage.py makemigrations
+python manage.py migrate
+
+# Start server
+python manage.py runserver 0.0.0.0:8000
 
 
