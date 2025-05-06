@@ -41,7 +41,6 @@ This project is a complete Automatic Number Plate Recognition (ANPR) system buil
 ![Image](https://github.com/user-attachments/assets/d5f993c6-23d4-4c80-891c-6090e0f8a957)
 
 
-
 ## ⚙️ Setup Instructions
 
 ```bash
@@ -62,5 +61,3 @@ python manage.py migrate
 
 # Start server
 python manage.py runserver 0.0.0.0:8000
-
-
