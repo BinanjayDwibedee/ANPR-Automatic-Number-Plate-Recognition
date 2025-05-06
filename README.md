@@ -53,6 +53,22 @@ https://github.com/user-attachments/assets/5ac9decd-f920-4de7-ad79-c5226ac65370
 
 ![image](https://github.com/user-attachments/assets/4e4d1802-5678-4bc9-8897-ae53c0f770d2)
 
+anpr_project/
+├── anpr_project/
+│ ├── settings.py
+│ ├── urls.py
+│ └── wsgi.py
+├── detector/
+│ ├── templates/
+│ ├── static/
+│ ├── views.py
+│ ├── models.py
+│ ├── urls.py
+│ └── forms.py
+├── media/
+│ └── (uploaded frames & Excel report)
+├── manage.py
+└── README.md
 ##⚙️ Setup Instructions
 
 ```bash
