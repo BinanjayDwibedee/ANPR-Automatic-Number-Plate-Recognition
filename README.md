@@ -5,8 +5,8 @@ This project is a complete Automatic Number Plate Recognition (ANPR) system buil
 ---
 ## 🙋‍♂️ Author
 
-**Binanjay Dwibedee**    
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourname)
+**Binanjay Dwibedee**   
+[GitHub](https://github.com/BinanjayDwibedee/ANPR-Automatic-Number-Plate-Recognition-) | [LinkedIn](https://www.linkedin.com/in/binanjaydwibedee/)
 
 
 ## 🛠 Features
@@ -31,24 +31,20 @@ This project is a complete Automatic Number Plate Recognition (ANPR) system buil
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 anpr_project/
-├── anpr_project/
-│ ├── settings.py
-│ ├── urls.py
-│ └── wsgi.py
-├── detector/
-│ ├── templates/
-│ ├── static/
-│ ├── views.py
-│ ├── models.py
-│ ├── urls.py
-│ └── forms.py
-├── media/
-│ └── (uploaded frames & Excel report)
+├── anpr_project/        # Django settings and root URLs
+├── detector/            # Main app
+│   ├── views.py
+│   ├── models.py
+│   ├── urls.py
+│   └── templates/
+├── media/               # Saved frames and Excel report
 ├── manage.py
+├── requirements.txt
 └── README.md
+
 
 ## ⚙️ Setup Instructions
 
@@ -70,3 +66,10 @@ python manage.py migrate
 
 # Start server
 python manage.py runserver 0.0.0.0:8000
+
+## 📸 Demo
+
+![Demo Screenshot](media/sample_frame.png)
+
+![image](https://github.com/user-attachments/assets/d589f5c3-369a-4bd0-8787-62520b5e3dfd)
+
