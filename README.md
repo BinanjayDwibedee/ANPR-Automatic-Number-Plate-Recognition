@@ -33,17 +33,8 @@ This project is a complete Automatic Number Plate Recognition (ANPR) system buil
 
 ## 📁 Project Structure
 
-anpr_project/
-├── anpr_project/        # Django settings and root URLs
-├── detector/            # Main app
-│   ├── views.py
-│   ├── models.py
-│   ├── urls.py
-│   └── templates/
-├── media/               # Saved frames and Excel report
-├── manage.py
-├── requirements.txt
-└── README.md
+![image](https://github.com/user-attachments/assets/4e4d1802-5678-4bc9-8897-ae53c0f770d2)
+
 
 
 ## ⚙️ Setup Instructions
