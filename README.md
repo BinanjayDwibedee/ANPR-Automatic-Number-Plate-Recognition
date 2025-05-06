@@ -71,7 +71,7 @@ python manage.py runserver 0.0.0.0:8000
 
 ![Demo Screenshot](media/sample_frame.png)
 
-![image alt](https://github.com/BinanjayDwibedee/ANPR-Automatic-Number-Plate-Recognition-/tree/570ef04a16eed75a267659a154e343cc265c157f/media/video_44)
+![Image](https://github.com/user-attachments/assets/b1886337-6fa3-46ff-9a00-dbfb19d81b42)
 
 
 
