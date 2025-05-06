@@ -6,7 +6,7 @@ This project is a complete Automatic Number Plate Recognition (ANPR) system buil
 ## 🙋‍♂️ Author
 
 **Binanjay Dwibedee**   
-[GitHub](https://github.com/BinanjayDwibedee/ANPR-Automatic-Number-Plate-Recognition-) | [LinkedIn](https://www.linkedin.com/in/binanjaydwibedee/)
+[GitHub](https://github.com/BinanjayDwibedee/ANPR-Automatic-Number-Plate-Recognition) | [LinkedIn](https://www.linkedin.com/in/binanjaydwibedee/)
 
 
 ## 🛠 Features
