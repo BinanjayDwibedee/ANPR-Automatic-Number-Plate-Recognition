@@ -73,3 +73,5 @@ python manage.py runserver 0.0.0.0:8000
 
 ![image](https://github.com/user-attachments/assets/d589f5c3-369a-4bd0-8787-62520b5e3dfd)
 
+
+
